@@ -1,0 +1,41 @@
+header {
+    text-align: center;
+}
+
+#theju {
+    background-color: indianred;
+}
+
+header {
+    background-color: beige;
+}
+
+article {
+    background-color: bisque;
+}
+
+section {
+    text-align: center;
+    background-color: bisque;
+}
+
+.bbb {
+    background-color: chocolate;
+}
+
+.ccc {
+    background-color: chocolate;
+}
+
+footer {
+    text-align: center;
+    background-color: indianred;
+}
+
+.aa {
+    background-color: chocolate;
+}
+
+.ee {
+    background-color: chocolate;
+}

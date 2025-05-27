@@ -1,0 +1,129 @@
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    font-style: oblique;
+    font-size: 50px;
+    padding-top: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.box1 {
+    text-align: center;
+}
+
+
+.title {
+    background-color: bisque;
+    border-radius: 10px;
+    border-style: ridge;
+    margin: 15px;
+    text-align: center;
+
+
+}
+
+.box2 {
+    padding: 20px;
+}
+
+
+
+.box4 {
+    padding: 20px;
+}
+
+footer {
+    padding: 20px;
+    padding-top: 20px;
+    text-align: end;
+    background-color: black;
+    color: white;
+}
+
+#hi {
+    color: black;
+}
+
+.f1 {
+    text-align: center;
+}
+
+.f2 {
+    text-align: center;
+}
+
+.f3 {
+    padding: 20px;
+}
+
+.f5 {
+    text-align: center;
+}
+
+.f4 {
+    padding: 20px;
+}
+
+.title2 {
+    background-color: lightblue;
+    border-radius: 10px;
+    border-style: ridge;
+    text-align: start;
+    margin: 15px;
+
+}
+
+.title3 {
+    background-color: black;
+    text-align: center;
+    margin: 15px;
+    border-radius: 10px;
+
+}
+
+.v1 {
+    color: red;
+}
+
+.v2 {
+    color: whitesmoke;
+}
+
+.v3 {
+    color: whitesmoke;
+    text-align: center;
+}
+
+.v4 {
+    color: whitesmoke;
+    padding: 20px;
+    text-align: start;
+}
+
+.v5 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.footo {
+    text-align: center;
+}
+
+.box3 {
+    text-align: center;
+
+}
+
+.duc1 {
+    text-align: left;
+}
+
+.car1 {
+    border-radius: 5px;
+}
