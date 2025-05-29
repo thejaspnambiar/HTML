@@ -1,3 +1,15 @@
+.title1 {
+    background-color: bisque;
+    border-radius: 10px;
+    border-style: ridge;
+    margin: 15px;
+    text-align: center;
+    background-image: url(image1.png);
+    opacity: 0.8;
+    background-position: center;
+    background-size: cover;
+}
+
 h1 {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -5,6 +17,7 @@ h1 {
     font-style: oblique;
     font-size: 50px;
     padding-top: 20px;
+
 }
 
 h2 {
@@ -16,24 +29,16 @@ h2 {
 }
 
 
-.title {
-    background-color: bisque;
-    border-radius: 10px;
-    border-style: ridge;
-    margin: 15px;
-    text-align: center;
-
-
-}
-
 .box2 {
     padding: 20px;
+    color: bisque;
 }
 
 
 
 .box4 {
     padding: 20px;
+    color: bisque;
 }
 
 footer {
@@ -44,37 +49,42 @@ footer {
     color: white;
 }
 
-#hi {
-    color: black;
-}
-
-.f1 {
-    text-align: center;
-}
-
-.f2 {
-    text-align: center;
-}
-
-.f3 {
-    padding: 20px;
-}
-
-.f5 {
-    text-align: center;
-}
-
-.f4 {
-    padding: 20px;
-}
-
 .title2 {
     background-color: lightblue;
     border-radius: 10px;
     border-style: ridge;
     text-align: start;
     margin: 15px;
+    background-image: url(5.png);
+    opacity: 0.8;
+    background-position: center;
+    background-size: cover;
 
+    #hi {
+        color: black;
+    }
+
+    .f1 {
+        text-align: center;
+    }
+
+    .f2 {
+        text-align: center;
+    }
+
+    .f3 {
+        padding: 20px;
+        color: white;
+    }
+
+    .f5 {
+        text-align: center;
+    }
+
+    .f4 {
+        padding: 20px;
+        color: white;
+    }
 }
 
 .title3 {
@@ -82,6 +92,11 @@ footer {
     text-align: center;
     margin: 15px;
     border-radius: 10px;
+    background-image: url(image\ copy\ 3.png);
+    opacity: 0.8;
+    background-attachment: scroll;
+    background-size: cover;
+    background-position: center;
 
 }
 
@@ -90,7 +105,7 @@ footer {
 }
 
 .v2 {
-    color: whitesmoke;
+    color: black;
 }
 
 .v3 {

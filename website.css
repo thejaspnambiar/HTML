@@ -1,0 +1,51 @@
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background: #f8f8f8;
+        color: #333;
+        background-image: url(photo-1548978886-6badb16fc09f.avif);
+    }
+
+    header {
+        background: #000;
+        color: #fff;
+        padding: 1rem 2rem;
+        text-align: center;
+    }
+
+    header h1 {
+        margin: 0;
+        font-size: 2.5rem;
+    }
+
+    .porsh1 {
+
+        padding-left: 375px;
+
+    }
+
+    .porsh2 {
+        max-width: 800px;
+        margin: 2rem auto;
+        padding: 0 1rem;
+        background: #fff;
+
+
+    }
+
+    article {
+        padding: 2rem;
+    }
+
+    article h2 {
+        color: #c00;
+    }
+
+    footer {
+        background: #111;
+        color: #fff;
+        text-align: center;
+        padding: 1rem;
+        margin-top: 2rem;
+    }
