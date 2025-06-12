@@ -1,0 +1,36 @@
+.bbb {
+    background-color: aquamarine;
+    position: fixed;
+    top: 50px;
+    left: 50px;
+    right: 50px;
+    bottom: 50px;
+}
+
+.ccc {
+    background-color: blue;
+    position: relative;
+    top: 50px;
+    left: 50px;
+    right: 50px;
+    bottom: 50px;
+}
+
+body {
+    background-image: url(image.png);
+    opacity: 0.8;
+}
+
+.eee {
+    position: absolute;
+    background-color: antiquewhite;
+    left: 50px;
+    bottom: 30px;
+    right: 30px;
+    top: 50px;
+}
+
+.hhh {
+    position: sticky;
+    background-color: aliceblue;
+}

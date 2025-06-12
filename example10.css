@@ -1,0 +1,30 @@
+body {
+    background-image: url(spidy.avif);
+    opacity: 0.7;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.aaa {
+    width: 400px;
+    height: 300px;
+    background-image: url(spidy.avif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow: auto;
+
+}
+
+.bbb {
+    width: 300px;
+    min-height: 200px;
+    background-color: blue;
+}
+
+.ccc {
+    background-color: aquamarine;
+    width: 300px;
+    max-height: 250px;
+
+}

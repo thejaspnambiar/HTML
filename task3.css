@@ -1,0 +1,60 @@
+.img1 {
+    border-radius: 100px;
+
+}
+
+.block1 {
+
+    background-color: rgba(244, 237, 237, 0.944);
+    text-align: center;
+
+
+
+}
+
+.img2 {
+    border-radius: 100px;
+}
+
+.block {
+    display: flex;
+    margin: 50px;
+    justify-content: space-evenly;
+
+
+
+}
+
+.block2 {
+    text-align: center;
+}
+
+.block3 {
+    text-align: center;
+}
+
+.img5 {
+    border-radius: 100px;
+}
+
+.sec {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sec1 {
+    text-align: center;
+}
+
+.sec2 {
+    text-align: center;
+}
+
+.sec3 {
+    text-align: center;
+    background-color: rgb(244, 237, 237, 0.944);
+}
+
+.img6 {
+    border-radius: 100px;
+}
