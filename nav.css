@@ -1,0 +1,129 @@
+body {
+    margin: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: goldenrod;
+
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    align-items: center;
+    padding: 10px 20px;
+    background: rgb(241, 229, 7);
+
+}
+
+.nav1 {
+    display: flex;
+    align-items: center;
+
+}
+
+
+.nav a {
+    color: black;
+    text-decoration: none;
+    margin: 0 15px;
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.section {
+    display: flex;
+    gap: 30px;
+    border-radius: 30px;
+    padding: 20px;
+    margin: auto;
+}
+
+.box1 {
+    background-color: gold;
+    padding: 10px;
+    border-radius: initial;
+    height: 600px;
+    width: 400px;
+
+
+
+}
+
+.box2 {
+    background-color: green;
+    padding: 10px;
+    border-radius: initial;
+    height: 600px;
+    width: 400px;
+
+
+
+}
+
+.box3 {
+    background-color: dodgerblue;
+    padding: 10px;
+    border-radius: initial;
+    height: 600px;
+    width: 400px;
+
+
+}
+
+.box1 img {
+    border-radius: 10px;
+    height: 300px;
+    width: 400px;
+    object-fit: cover;
+    text-align: center;
+}
+
+.box2 img {
+    border-radius: 10px;
+    height: 300px;
+    width: 400px;
+    object-fit: cover;
+    text-align: center;
+}
+
+.box3 img {
+    border-radius: 10px;
+    height: 300px;
+    width: 400px;
+    object-fit: cover;
+    text-align: center;
+}
+
+.box1 p {
+    font-style: italic;
+}
+
+.box2 {
+    font-style: italic;
+
+}
+
+.box3 {
+    font-style: italic;
+}
+
+
+footer {
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+    border-top: 1px solid #ccc;
+}
+
+footer a {
+    display: inline-block;
+    margin: 10px;
+    color: #0072ce;
+    text-decoration: none;
+    font-weight: 500;
+}

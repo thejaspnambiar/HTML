@@ -4,10 +4,13 @@
     border-style: ridge;
     margin: 15px;
     text-align: center;
-    background-image: url(image1.png);
-    opacity: 0.8;
-    background-position: center;
-    background-size: cover;
+    background-color: aquamarine;
+}
+
+@media (max-width:300px) {
+    .title1 {
+        background-color: rgb(255, 127, 131);
+    }
 }
 
 
@@ -57,10 +60,7 @@ footer {
     border-style: ridge;
     text-align: start;
     margin: 15px;
-    background-image: url(5.png);
-    opacity: 0.8;
-    background-position: center;
-    background-size: cover;
+    background-color: blueviolet;
 
     #hi {
         color: black;
@@ -89,16 +89,18 @@ footer {
     }
 }
 
+@media (max-width:300px) {
+    .section1 {
+        background-color: rgb(255, 189, 127);
+    }
+}
+
 .title3 {
     background-color: black;
     text-align: center;
     margin: 15px;
     border-radius: 10px;
-    background-image: url(image\ copy\ 3.png);
-    opacity: 0.8;
-    background-attachment: scroll;
-    background-size: cover;
-    background-position: center;
+    background-color: cadetblue;
 
 }
 
